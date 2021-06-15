@@ -20,3 +20,5 @@ Homework : I have scrapped man of the match from ipl 2020.
 <br>
 
 ![cricbuzz scrap](https://user-images.githubusercontent.com/55646472/122071309-452a4d00-ce14-11eb-98fc-d619ee417a23.PNG)
+ 
+ <hr>
