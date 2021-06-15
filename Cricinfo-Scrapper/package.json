@@ -1,0 +1,16 @@
+{
+  "name": "cricinfo-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lastBallCommentry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
